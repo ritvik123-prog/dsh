@@ -1,0 +1,44 @@
+
+            h1 {
+                color: brown;
+            }
+
+          
+.header{
+    background-color:#282835;
+display: flex;
+
+justify-content:space-between;
+
+}
+.menu{
+    display: flex;
+
+    background-color:#059862; 
+
+}
+.games{
+    display: flex;
+ flex-wrap: wrap;
+ justify-content:space-evenly;
+}
+h2,p{
+    text-align: center;
+}
+.footer{
+
+    display: flex;
+    justify-content:flex-end;
+
+      
+}
+.links{
+
+
+
+ }
+
+body{
+    background-color:#000000;
+    color:#ffffff;
+    }
